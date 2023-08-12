@@ -2,3 +2,6 @@ an old  NOT functional crunchyroll video downloader. if you make some modificati
 used to work on old crunchyroll api and version, but with the new update, became deprecated.
 
 i plan to create a new version in the future.
+
+use cloudscraper, m3u8 and beautifulsoup.
+for the cli, it uses click and pynput.
